@@ -1,2 +1,2 @@
-# SAT
-2025 Horror game demo
+# READ ME
+ Details
